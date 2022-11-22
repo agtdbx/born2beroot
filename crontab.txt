@@ -1,0 +1,2 @@
+*/10 * * * * bash /root/sleep.sh && bash /root/monitoring.sh
+
